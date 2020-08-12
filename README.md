@@ -1,1 +1,1 @@
-# miniinfobar-test
+# Mini Info Bar Test
